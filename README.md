@@ -3,7 +3,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
    ## Description
-   The purpose of this project was to utilize Sequelize to build the back-end of an Internet retail application to allow database interaction. This application utilizes GET, POST, PUT, and DELETE methods to allow viewing, adding to, modifying, and deleting data from an e-commerce database. During the development process, I became more comfortable with writing back-end code for various API routes, creating Sequelize models, and utilizing relationships between these models.
+   The purpose of this project was to utilize Sequelize to build the back-end of an Internet retail application to allow database interaction. This application utilizes GET, POST, PUT, and DELETE methods to allow viewing, adding to, modifying, and deleting data from an e-commerce database.
 
  ## Table of Contents
 
